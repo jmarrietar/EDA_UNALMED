@@ -1,0 +1,60 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatoDD;ProcesaTexto;VersiónProcesa;Formato;NumLetrasa;TamañoArchivo
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;1000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;2000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;3000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;4000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;5000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;6000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;7000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;8000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;9000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;10000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;20000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;30000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;40000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;50000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;60000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;70000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;80000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;90000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;Microsof Word;2013;.docx;100000;16,0 KB
+;;;;;;;;;
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;1000;4,00 KB 
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;2000;4,00 KB 
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;3000;4,00 KB 
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;4000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;5000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;6000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;7000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;8000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;9000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;10000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;20000;20,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;30000;32,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;40000;40,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;50000;52,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;60000;60,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;70000;72,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;80000;80,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;90000;92,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;WordPad;2013;.rtf;100000;100 KB
+;;;;;;;;;
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.0;.abw;1000;4,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.1;.abw;2000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.2;.abw;3000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.3;.abw;4000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.4;.abw;5000;8,00 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.5;.abw;6000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.6;.abw;7000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.7;.abw;8000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.8;.abw;9000;12,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.9;.abw;10000;16,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.10;.abw;20000;24,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.11;.abw;30000;36,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.12;.abw;40000;44,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.13;.abw;50000;52,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.14;.abw;60000;64,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.15;.abw;70000;72,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.16;.abw;80000;84,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.17;.abw;90000;92,0 KB
+1;Portatil;Windows 8;64 Bits;NTFS;AbiWord;2.9.4.18;.abw;100000;104 KB

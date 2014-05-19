@@ -1,0 +1,62 @@
+Numero de integrante;Tipo de Equipo;Sistema Operativo;Tipo de sistema operativo;Formato del disco duro;Nombre del Procesador de texto;Version del Procesador de texto;Formato del Archivo;Numero de letras;Numero de Kb ocupados por el archivo en disco
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);1000;32
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);2000;36
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);3000;36
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);4000;36
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);5000;36
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);6000;40
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);7000;40
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);8000;40
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);9000;44
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);10000;44
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);20000;52
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);30000;64
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);40000;72
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);50000;84
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);60000;92
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);70000;104
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);80000;116
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);90000;124
+1;Escritorio;Windows 8;64 Bits;NTFS;Word;2010;(.RTF);100000;136
+;;;;;;;;;
+;;;;;;;;;
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;1000;20
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;2000;24
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;3000;24
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;4000;24
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;5000;24
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;6000;28
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;7000;28
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;8000;28
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;9000;28
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;10000;32
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;20000;40
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;30000;52
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;40000;60
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;50000;72
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;60000;80
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;70000;92
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;80000;100
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;90000;108
+2;Escritorio;Windows 7;32 bits;NTFS;Word;2003;Doc;100000;120
+;;;;;;;;;
+;;;;;;;;;
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;1000;152
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;2000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;3000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;4000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;5000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;6000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;7000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;8000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;9000;156
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;10000;160
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;20000;160
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;30000;164
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;40000;168
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;50000;172
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;60000;176
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;70000;176
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;80000;180
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;90000;184
+3;portatil;windows 7 professional;32 bits;NTFS;Word;2010;pdf;100000;188

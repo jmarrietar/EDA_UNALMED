@@ -1,0 +1,96 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatoDD;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamanoArchivo
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;1000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;2000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;3000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;4000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;5000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;6000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;7000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;8000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;9000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;10000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;20000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;30000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;40000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;50000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;60000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;70000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;80000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;90000;16
+1;Escritorio;Windows 7;32;NTFS;Microsoft Word;2010;docx;100000;16
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;1000;4
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;2000;8
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;3000;8
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;4000;8
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;5000;8
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;6000;12
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;7000;16
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;8000;20
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;9000;24
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;10000;16
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;20000;24
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;30000;36
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;40000;44
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;50000;56
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;60000;64
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;70000;72
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;80000;84
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;90000;92
+2;Portátil;Windows 8;32;NTFS;AbiWord;2,8,6;abw;100000;104
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;1000;80
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;2000;80
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;3000;80
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;4000;80
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;5000;80
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;6000;80
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;7000;84
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;8000;84
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;9000;84
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;10000;84
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;20000;84
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;30000;88
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;40000;92
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;50000;96
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;60000;100
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;70000;100
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;80000;104
+3;Escritorio;Windows7;32;NTFS;Microsoft Word;2007;pdf;90000;108
+3;Escritorio;Windows 7;32;NTFS;Microsoft Word;2007;pdf;100000;108
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;1000;4
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;2000;4
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;3000;4
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;4000;4
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;5000;8
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;6000;8
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;7000;8
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;8000;8
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;9000;12
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;10000;12
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;20000;20
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;30000;32
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;40000;40
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;50000;52
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;60000;60
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;70000;72
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;80000;80
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;90000;88
+4;Portátil;Ubuntu;64;ext4;TeXstudio;2,6,2;tex;100000;100
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;1000;4
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;2000;4
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;3000;4
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;4000;4
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;5000;8
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;6000;8
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;7000;8
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;8000;8
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;9000;12
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;10000;12
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;20000;20
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;30000;32
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;40000;40
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;50000;52
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;60000;60
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;70000;72
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;80000;80
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;90000;88
+5;Portátil;Windows 7;32;NTFS;Bloc de notas;6,1;txt;100000;100

@@ -1,0 +1,77 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatoDD;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamañoArchivo
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;1000;12
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;2000;16
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;3000;16
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;4000;20
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;5000;20
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;6000;24
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;7000;24
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;8000;28
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;9000;28
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;10000;32
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;20000;52
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;30000;72
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;40000;88
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;50000;108
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;60000;128
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;70000;148
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;80000;168
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;90000;188
+1;Portatil;Linux Ubuntu 10.04.4 LTS;64 bits;Ext3;LibreOffice;4.1.0.4;doc;100000;208
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;1000;24
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;2000;24
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;3000;28
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;4000;28
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;5000;28
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;6000;32
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;7000;32
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;8000;32
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;9000;36
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;10000;36
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;20000;48
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;30000;64
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;40000;76
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;50000;88
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;60000;100
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;70000;116
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;80000;124
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;90000;136
+2;Portatil;Windows 8;64 bits;NTFS;Microsoft Word;2010;doc;100000;152
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;1000;28
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;2000;28
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;3000;28
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;4000;32
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;5000;32
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;6000;32
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;7000;32
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;8000;36
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;9000;36
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;10000;36
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;20000;48
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;30000;56
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;40000;68
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;50000;76
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;60000;88
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;70000;92
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;80000;100
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;90000;112
+3;Escritorio ;Windows 7;64 bits;NTFS;Microsoft Word;2007;doc;100000;120
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;1000;8,41
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;2000;8,49
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;3000;8,62
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;4000;8,75
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;5000;8,98
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;6000;8,99
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;7000;8,99
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;8000;9
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;9000;9
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;10000;9,02
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;20000;9,07
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;30000;9,11
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;40000;9,15
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;50000;9,18
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;60000;9,21
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;70000;9,29
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;80000;9,33
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;90000;9,36
+4;Portatil;Windows 7;64 bits;NTFS;LibreOffice;4.1.0.4;odt;100000;9,38

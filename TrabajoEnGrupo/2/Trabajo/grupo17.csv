@@ -1,0 +1,58 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatoDD;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamañoArchivoKB
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;1000;23
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;2000;24
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;3000;25
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;4000;26
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;5000;27
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;6000;28
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;7000;29
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;8000;30
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;9000;31
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;10000;32
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;20000;42
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;30000;52
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;40000;62
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;50000;72
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;60000;82
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;70000;92
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;80000;102
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;90000;112
+1;portatil;Windows 7 Home basic;64 bits;NTFS;Micorsoft word ;Profesional plus 2010;HTML;100000;122
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;1000;80
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;2000;80
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;3000;84
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;4000;84
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;5000;84
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;6000;84
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;7000;84
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;8000;88
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;9000;88
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;10000;88
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;20000;96
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;30000;104
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;40000;108
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;50000;116
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;60000;124
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;70000;132
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;80000;140
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;90000;148
+2;portatil;Windows 7 ultimate;64 bits;NTFS;Microsoft Word;2013 Professional Plus;pdf;100000;156
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;1000;4
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;2000;4
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;3000;4
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;4000;8
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;5000;8
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;6000;8
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;7000;8
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;8000;12
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;9000;12
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;10000;12
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;20000;20
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;30000;32
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;40000;40
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;50000;52
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;60000;60
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;70000;72
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;80000;80
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;90000;92
+3;portatil;Windows 8;64 bits;NTFS;WordPad;6,2;rtf;100000;100

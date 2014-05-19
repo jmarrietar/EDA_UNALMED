@@ -1,0 +1,58 @@
+Integrante;TipoEquipo;SO;TipoSO;FormadoDD;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamañoArchivo
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;1000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;2000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;3000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;4000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;5000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;6000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;7000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;8000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;9000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;10000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;20000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;30000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;40000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;50000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;60000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;70000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;80000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;90000;16
+1;Escritorio;Windows 8 Pro;64 bits;NTFS;Microsoft Office Word;2013;.docx;100000;16
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;1000;32
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;2000;36
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;3000;36
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;4000;36
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;5000;40
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;6000;40
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;7000;40
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;8000;44
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;9000;44
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;10000;44
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;20000;52
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;30000;64
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;40000;72
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;50000;84
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;60000;92
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;70000;104
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;80000;112
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;90000;124
+2;Portátil;Windows 7 Home Basic;64 bits;NTFS;Microsoft Office Word;2007;Documento xml;100000;132
+3;Portátil;Windows 7;65 bits;NTFS;Microsoft Office Word;2010;.doc;1000;12,4
+3;Portátil;Windows 7;65 bits;NTFS;Microsoft Office Word;2010;.doc;2000;12,3
+3;Portátil;Windows 7;65 bits;NTFS;Microsoft Office Word;2010;.doc;3000;12,5
+3;Portátil;Windows 7;65 bits;NTFS;Microsoft Office Word;2010;.doc;4000;12,5
+3;Portátil;Windows 7;66 bits;NTFS;Microsoft Office Word;2010;.doc;5000;12,6
+3;Portátil;Windows 7;66 bits;NTFS;Microsoft Office Word;2010;.doc;6000;12,6
+3;Portátil;Windows 7;66 bits;NTFS;Microsoft Office Word;2010;.doc;7000;12,6
+3;Portátil;Windows 7;66 bits;NTFS;Microsoft Office Word;2010;.doc;8000;12,6
+3;Portátil;Windows 7;67 bits;NTFS;Microsoft Office Word;2010;.doc;9000;12,7
+3;Portátil;Windows 7;67 bits;NTFS;Microsoft Office Word;2010;.doc;10000;12,9
+3;Portátil;Windows 7;67 bits;NTFS;Microsoft Office Word;2010;.doc;20000;13
+3;Portátil;Windows 7;67 bits;NTFS;Microsoft Office Word;2010;.doc;30000;13,2
+3;Portátil;Windows 7;68 bits;NTFS;Microsoft Office Word;2010;.doc;40000;13,5
+3;Portátil;Windows 7;68 bits;NTFS;Microsoft Office Word;2010;.doc;50000;13,7
+3;Portátil;Windows 7;68 bits;NTFS;Microsoft Office Word;2010;.doc;60000;14
+3;Portátil;Windows 7;68 bits;NTFS;Microsoft Office Word;2010;.doc;70000;14,2
+3;Portátil;Windows 7;69 bits;NTFS;Microsoft Office Word;2010;.doc;80000;14,5
+3;Portátil;Windows 7;69 bits;NTFS;Microsoft Office Word;2010;.doc;90000;14,7
+3;Portátil;Windows 7;69 bits;NTFS;Microsoft Office Word;2010;.doc;100000;14,9

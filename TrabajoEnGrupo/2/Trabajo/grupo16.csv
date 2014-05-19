@@ -1,0 +1,96 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatoDD ;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamañoArchivo KB
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;1000;66
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;2000;111
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;3000;152
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;4000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;5000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;6000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;7000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;8000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;9000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;10000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;20000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;30000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;40000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;50000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;60000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;70000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;80000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;90000;164
+1;Portatil;Mac OS X 10.6.8;64 bits;HFS;microsoft word ;2008;docx;100000;164
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;1000;12,5
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;2000;12,5
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;3000;12,6
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;4000;12,7
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;5000;12,7
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;6000;12,7
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;7000;12,7
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;8000;12,8
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;9000;12,8
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;10000;12,8
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;20000;13
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;30000;13
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;40000;13,1
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;50000;13,4
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;60000;13,5
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;70000;13,6
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;80000;13,8
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;90000;13,9
+2;Portatil;Windows 7 Ultimate;64 bits;NTFS;microsoft word ;2010;docx;100000;14
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;1000;79,2
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;2000;79,5
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;3000;80,3
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;4000;80,9
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;5000;81,3
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;6000;82,1
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;7000;82,4
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;8000;82,8
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;9000;83,7
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;10000;84,1
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;20000;89
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;30000;94
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;40000;97,9
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;50000;102
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;60000;107
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;70000;112
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;80000;117
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;90000;122
+3;Portatil;Windows 7 Ultimate;64 bits;NTFS;PDF;1,5 (Acrobat 6.x);PDF;100000;125
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;1000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;2000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;3000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;4000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;5000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;6000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;7000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;8000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;9000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;10000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;20000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;30000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;40000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;50000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;60000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;70000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;80000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;90000;13
+4;Portatil;Windows 7 Professional;32 bits;NTFS;microsoft word ;2010;docx;100000;14
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;1000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;2000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;3000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;4000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;5000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;6000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;7000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;8000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;9000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;10000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;20000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;30000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;40000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;50000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;60000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;70000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;80000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;90000;12
+5;portátil;Windows 7;32 bits;NTFS;microsoft word ;2007;docx;100000;12

@@ -1,0 +1,31 @@
+NumPer;Edad;Genero;Nivel Academ;Gusta estud musica;Genero musical;Tiempo con musica;Tiempo sin musica;Primero musica;Forma audio;Num ensayos;Num inten fall
+1;21;M;Pregrado;no;Rock and roll;129;148;no;audifonos;1;1
+2;20;M;Pregrado;no;Salsa;129;178;no;parlantes;1;0
+3;18;M;Pregrado;si;Pop;79;65;si;parlantes;1;0
+4;17;M;Pregrado;si;Rock and roll;104;105;si;parlantes;1;0
+5;20;M;Pregrado;si;Rock and roll;176;109;si;audifonos;1;0
+6;22;M;Pregrado;si;Rap;148;140;si;audifonos;1;0
+7;20;M;Pregrado;si;Rock and roll;155;142;si;parlantes;1;0
+8;21;M;Pregrado;no;Reggaeton;114;119;si;parlantes;1;0
+9;18;F;Tecnológica;si;Pop;145;125;no;parlantes;2;1
+10;19;M;Tecnológica;no;Pop;188;183;no;audifonos;1;0
+11;21;M;Tecnológica;si;Reggae;128;186;no;parlantes;2;0
+12;17;M;Tecnológica;no;Cumbia;131;147;si;parlantes;2;0
+13;19;M;Tecnológica;si;Rap;118;112;si;audifonos;1;1
+14;25;M;Tecnológica;si;Pop;106;91;no;audifonos;1;0
+15;21;M;Tecnológica;no;Rock and roll;132;142;no;parlantes;1;0
+16;8;F;Primaria;si;Pop;175;206;no;audifonos;2;0
+17;25;M;Pregrado;si;Rock and roll;159;205;no;audifonos;1;0
+18;21;M;Pregrado;si;Rock and roll;151;114;si;audifonos;1;0
+19;24;F;Pregrado;si;Rock and roll;150;117;no;audifonos;1;0
+20;23;M;Pregrado;si;Rap;107;119;si;audifonos;2;0
+21;26;M;Posgrado;no;Musica clasica;117;159;si;audifonos;1;0
+22;24;F;Pregrado;si;Reggae;75;86;si;audifonos;1;0
+23;27;F;Pregrado;no;Salsa;109;78;no;parlantes;1;0
+24;30;M;Posgrado;si;Reggaeton;109;111;no;parlantes;1;0
+25;24;F;Pregrado;si;Reggaeton;99;127;si;audifonos;2;0
+26;25;M;Pregrado;no;Pop;98;119;si;parlantes;1;0
+27;15;M;secundaria;si;Rap;112;143;si;audifonos;1;0
+28;14;M;secundaria;si;Rap;122;122;no;audifonos;1;0
+29;12;F;secundaria;no;Pop;147;100;no;audifonos;1;0
+30;18;F;Pregrado;no;Pop;119;130;no;audifonos;2;0

@@ -1,0 +1,76 @@
+ITEM;GÉNERO;EDAD;PROGRAMA;SEMESTRE;ESTRATO;RED SOCIAL;PROBLEMÁTICA;PARTIDO ;POLÍTICO ID;VOTAR;VP VOTAR;POSTURA EUN;PERT PARTIDO;VOTO P;CANDIDATO P;VOTO M;CANDIDATO M
+1;m;20;I Sistemas;7;4;si;guerra Intena;ninguno;ninguno;si;si;no;no;si;mockus;no;
+2;m;20;I Sistemas;2;5;si;desigualdad;izquierda;;no;si;Si;no;;;no;
+3;m;26;I Forestal;8;3;si;educación;ninguno;ninguno;si;no;Si;no;si;fajardo;si;fajardo
+4;m;22;I forestal;9;3;si;paro Naciona;izquierda;ninguno;si;si;no;no;no;;si;mockus
+5;m;20;I Sistemas;3;2;si;educación Calidad;liberal;;si;si;;;si;uribe;si;uribe
+6;m;19;Estadística;2;5;si;corrupción;;uribe;si;si;Si;no;no;;si;santos
+7;m;18;I Sistemas;6;4;si;desplazamiento;;;si;si;Si;no;si;mockus;si;mockus
+8;m;18;I Sistemas;6;4;si;pobreza;conservador;ninguno;si;n;Si;no;no;;si;santos
+9;m;24;I Sistemas;9;2;si;desigualdad;ninguno;petro;no sabe;no sabe;;No sabe;No sabe;;si;mockus
+10;f;17;Estadística;2;1;si;impunidad derechos;u;uribe;si;si;Si;si;si;santos;si;santos
+11;m;23;I Sistemas;4;4;no;violencia;ninguno;ninguno;si;no;no;no;si;no sabe;no;
+12;m;20;I Sistemas;3;4;si;corrupción;u;vargas ll;si;si;Si;no;si;santos;si;santos
+13;m;19;I Sistemas;4;3;si;violencia;n/a;n/a;si;si;n/a;no;si;n/a;si;n/a
+14;m;26;Estadística;2;2;si;bacrim;ninguno;;si;no;no;si;si;santos;si;santos
+15;m;23;I Sistemas;8;3;si;violencia;;;si;si;no;no;si;santos;si;no sabe
+16;m;18;I Sistemas;4;3;si;corrupción política;liberal;fajardo;si;no;no;no;si;mockus;si;mockus
+17;m;18;I sistemas;3;3;si;violencia;ninguno;ninguno;no;no;Si;no;si;no sabe;si;no sabe
+18;f;17;Estadística;2;3;si;alta tasa accidentes;;uribe;no;no;no;no;si;en blanco;si;santos
+19;m;18;Estadística;2;3;si;educación;verde;fajardo;si;si;Si;no;si;mockus;si;mockus
+20;m;19;I Sistemas;4;3;si;violencia;;uribe;no;no;Si;si;No sabe;;no sabe;
+21;m;21;I Sistemas;2;3;si;desigualdad;polo;ninguno;si;si;Si;no;si;santos;si;santos
+22;m;27;Estadística;2;3;si;desigualdad;;;si;si;no;no;si;;si;
+23;m;20;I Sistemas;2;5;si;educación;n/a;n/a;si;si;no;no;No sabe;no sabe;no sabe;no sabe
+24;m;19;I Sistemas;4;3;si;violencia;;;si;si;Si;no;si;santos;si;Santos
+25;f;21;Estadística;7;4;si;pobreza;;fajardo;si;si;Si;no;si;;si;
+26;m;30;I Sistemas;5;2;si;salud;verde;petro;si;si;Si;no;si;mockus;si;mockus
+27;m;19;I Sistemas;4;2;si;educación;ninguno;ninguno;si;si;no;no;si;en blanco;si;en blanco
+28;m;21;I Sistemas;3;5;si;;ninguno;ninguno;si;no;Si;no;si;santos;si;santos
+29;m;20;I Sistemas;4;6;si;narcotráfico;u;uribe;si;si;Si;no;si;santos;si;santos
+30;m;18;I Sistemas;4;3;si;educación;ninguno;ninguno;si;Ns/nr;Si;no;si;santos;no;
+31;m;18;Estadística;2;2;si;corrupción;;;si;si;no;si;si;santos;si;santos
+32;f;19;Estadística;3;2;no;violencia;;;;si;Si;no;si;;si;
+33;m;22;I industrial;10;5;si;seguridad;u;uribe;si;si;no;no;si;santos;si;santos
+34;m;17;Estadística;2;3;si;educación;liberal;ns/nr;si;si;Si;si;si;no sabe;si;santos
+35;f;19;Estadística;2;3;si;la justicia;;uribe;si;cvb si;Si;no;si;no sabe;si;santos
+36;m;19;I Sistemas;6;2;si;corrupción;conservador;ninguno;si;no;Si;no;si;no sabe;si;no sabe
+37;m;18;Estadística;3;4;si;educación;ninguno;ninguno;si;no;Si;no;si;santos;si;santos
+38;m;16;I Sistemas;2;2;si;corrupción;verde;fajardo;no puedo;si;Si;no;si;santos;si;santos
+39;m;19;Estadística;1;3;si;hidroeléctricas;ninguno;;si;no;Si;si;si;uribe;si;en blanco
+40;m;18;I Sistemas;4;3;si;desigualdad;;;si;no;Si;no;;;si;en blanco
+41;f;18;I Sistemas;5;3;si;;;;si;no;Si;no;;;si;en blanco
+42;m;20;zootecnia;6;2;si;salud;verde;fajardo;si;no;Si;no;si;no sabe;si;no sabe
+43;m;33;I Sistemas;5;3;si;salud;;;si;si;Si;;si;;si;
+44;m;18;Estadística;2;5;si;educación;u;fajardo;si;si;Si;no;si;uribe;si;vargas ll
+45;m;23;I Sistemas;8;5;si;educación;n/a;n/a;en blanco;si;Si;no;si;no sabe;si;no sabe
+46;m;17;Estadística;2;3;si;desigualdad;ninguno;ninguno;no;no;Si;n o;si;no sabe;no;
+47;m;26;I Sistemas;7;3;si;corrupción;na;na;si;no;no;no;na;na;si;no sabe
+48;m;22;I industrial;10;5;si;charlas con guerrilla;liberal;ninguno;si;si;no;no;si;no sabe;si;no sabe
+49;m;19;I Sistemas;2;3;si;las lluvias;uribista;uribe;si;no;Si;no;si;;si;
+50;m;18;I Sistemas;2;3;si;salud;u;uribe;si;si;Si;no;si;santos;si;santos
+51;f;22;I Sistemas;4;3;si;pobreza;ninguno;jorge r;si;si;si;no;si;mockus;si;mockus
+52;m;19;I Sistemas;8;1;si;salud;;;si;si;no;no;si;;si;santos
+53;m;19;I Sistemas;3;5;si;educación;mira;ninguno;si;si;Si;no;no;;si;mockus
+54;f;22;I Sistemas;3;3;si;educación;;;si;si;Si;no;si;santos;no;
+55;m;18;Estadística;2;3;si;educación;ninguno;ninguno;si;no;si;no;si;;si;
+56;f;17;Estadística;2;2;si;salud;liberal;ninguno;;si;no;no;si;;si;vargas ll
+57;f;17;Estadística;2;5;si;pobreza;;;si;no;no;no;si;mockus;si;mockus
+58;m;17;Estadística;2;3;si;pobreza;ninguno;navarro;no;si;no;no;si;santos;si;santos
+59;m;22;I Sistemas;5;1;si;la guerra;ninguno;ninguno;si;si;posiblemente;no necesariamente;fallecido;;no;
+60;m;17;I Sistemas;4;3;si;educación;;;si;si;no;no;si;santos;si;santos
+61;m;18;I Sistemas;4;3;si;violencia;;;si;si;Si;no;si;;si;
+62;m;20;I Sistemas;7;3;si;corrupción;ninguno;ninguno;si;no;Si;no;si;santos;si;santos
+63;f;18;Estadística;2;2;si;conductores ebrios;ninguno;ninguno;si;depende;Si;depende;si;no sabe;si;no sabe
+64;m;20;I industrial;8;3;si;conflicto armado;ninguno;fajardo;si;si;Si;no;si;mockus;si;Santos
+65;f;21;Estadística;2;2;si;Agricultura;ninguno;ninguno;si;si;Si;;si;santos;si;santos
+66;m;18;Estadística;2;2;si;salud;verde;;si;si;no;no;si;santos;si;santos
+67;m;19;I Sistemas;4;3;si;pobreza;;;si;no;Si;si;si;santos;si;santos
+68;m;23;I Sistemas;8;3;si;inseguridad;;petro;si;no;no;no;si;;si;
+69;m;17;I Sistemas;2;2;si;corrupción;liberal;;si;si;Si;no;si;mockus;si;mockus
+70;m;19;I Sistemas;5;2;si;Proceso de paz;;;si;si;si;no;si;no sabe;no;
+71;m;20;Estadística;2;3;si;La economía;ninguno;ninguno;si;no;si;no;si;santos;no;
+72;f;18;Estadística;2;3;si;TLC;u;uribe;si;si;Si;s;si;no sabe;si;no sabe
+73;m;17;Estadística;2;2;si;Pobreza;ninguno;ninguno;si;no;no;no;si;santos;si;anulado
+74;f;19;I administrativa;6;2;si;mal manejo dinerodel gob;ninguno;ninguno;si;no;Si;no;no;;si;
+75;m;18;Estadística;2;3;si;política;no respondo;no respondo;si;si;Si;si;si;no respondo;si;no respondo

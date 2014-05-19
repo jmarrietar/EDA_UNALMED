@@ -1,0 +1,58 @@
+Integrante;TipoEquipo;SO;TipoSO;FormatDD;ProcesaTexto;VersionProcesa;Formato;NumLetrasa;TamañoArchivo (KB)
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;1000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;2000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;3000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;4000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;5000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;6000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;7000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;8000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;9000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;10000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;20000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;30000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;40000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;50000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;60000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;70000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;80000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;90000;12,00
+1;Portátil;Windows Vista Home ;32 bits;NTFS;Word;2007;docx;100000;12,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;1000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;2000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;3000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;4000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;5000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;6000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;7000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;8000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;9000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;10000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;20000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;30000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;40000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;50000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;60000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;70000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;80000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;90000;16,00
+2;Portátil;Windows 7 Ultimate;32 bits;NTFS;Word;2010;docx;100000;16,00
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;1000;8,6
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;2000;8,8
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;3000;8,9
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;4000;9
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;5000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;6000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;7000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;8000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;9000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;10000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;20000;9,3
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;30000;9,4
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;40000;9,4
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;50000;9,5
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;60000;9,5
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;70000;9,5
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;80000;9,5
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;90000;9,7
+3;Escritorio;Ubuntu 13.04;32 bits;Ext4;LibreOffice Writer;4.0.2.2;odt;100000;9,7
